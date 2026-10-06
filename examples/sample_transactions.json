@@ -1,0 +1,5 @@
+[
+ {"transaction_id":"tx-low","amount":85,"currency":"USD","country":"US","customer_age_days":420,"velocity_1h":1,"device_risk":0.08},
+ {"transaction_id":"tx-review","amount":1250,"currency":"USD","country":"US","customer_age_days":14,"velocity_1h":8,"device_risk":0.72},
+ {"transaction_id":"tx-high","amount":9000,"currency":"USD","country":"ZZ","customer_age_days":2,"velocity_1h":15,"device_risk":0.97}
+]
